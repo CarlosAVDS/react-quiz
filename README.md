@@ -2,7 +2,9 @@
 
 Aplicativo simples de quiz desenvolvido com **React**, ideal para praticar conceitos como componentes, estado (`useState`), props e renderização condicional.
 
-![React Quiz Preview](https://user-images.githubusercontent.com/placeholder/quiz-preview.png) <!-- Substitua com um print da interface -->
+<div align ="center">
+  <img width="1440" height="852" alt="Image" src="https://github.com/user-attachments/assets/3d81a840-1ec8-4a1d-abb8-827eac66d92b" />
+</div>
 
 ## 🚀 Funcionalidades
 
@@ -58,7 +60,8 @@ react-quiz/
 │   ├── index.js
 │   └── styles.css
 └── package.json
-💡 Possíveis melhorias
+````
+## 💡 Possíveis melhorias
 Adicionar mais perguntas via API externa
 
 Implementar barra de progresso
@@ -67,7 +70,7 @@ Adicionar timer para cada questão
 
 Permitir níveis de dificuldade
 
-🔗 Deploy
+## 🔗 Deploy
 https://carlosavds.github.io/react-quiz/
 
 📝 Licença

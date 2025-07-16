@@ -6,6 +6,9 @@ Aplicativo simples de quiz desenvolvido com **React**, ideal para praticar conce
   <img width="1440" height="852" alt="Image" src="https://github.com/user-attachments/assets/3d81a840-1ec8-4a1d-abb8-827eac66d92b" />
 </div>
 
+## 🔗 Deploy
+https://carlosavds.github.io/react-quiz/
+
 ## 🚀 Funcionalidades
 
 - Interface leve e responsiva
@@ -69,9 +72,6 @@ Implementar barra de progresso
 Adicionar timer para cada questão
 
 Permitir níveis de dificuldade
-
-## 🔗 Deploy
-https://carlosavds.github.io/react-quiz/
 
 📝 Licença
 Este projeto está sob a licença MIT.

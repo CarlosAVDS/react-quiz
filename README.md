@@ -1,12 +1,76 @@
-# React + Vite
+# 🧠 React Quiz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicativo simples de quiz desenvolvido com **React**, ideal para praticar conceitos como componentes, estado (`useState`), props e renderização condicional.
 
-Currently, two official plugins are available:
+![React Quiz Preview](https://user-images.githubusercontent.com/placeholder/quiz-preview.png) <!-- Substitua com um print da interface -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Funcionalidades
 
-## Expanding the ESLint configuration
+- Interface leve e responsiva
+- Perguntas e respostas com múltipla escolha
+- Navegação entre perguntas
+- Cálculo de acertos
+- Feedback final com pontuação
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologias utilizadas
+
+- [React](https://reactjs.org)
+- JavaScript (ES6+)
+- HTML5 + CSS3
+
+## 🎯 Objetivo do Projeto
+
+Este projeto foi criado com o objetivo de praticar conceitos fundamentais do React, como:
+
+- Componentização
+- Estados (`useState`)
+- Props
+- Lógica condicional
+- Estilização modular (ou global)
+
+## 🧪 Como rodar localmente
+
+```bash
+# Clone o repositório
+git clone https://github.com/CarlosAVDS/react-quiz.git
+
+# Acesse o diretório
+cd react-quiz
+
+# Instale as dependências
+npm install
+
+# Inicie o projeto
+npm start
+O app estará disponível em http://localhost:3000.
+
+📦 Estrutura do projeto
+pgsql
+Copiar
+Editar
+react-quiz/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   └── Quiz.jsx
+│   ├── App.jsx
+│   ├── index.js
+│   └── styles.css
+└── package.json
+💡 Possíveis melhorias
+Adicionar mais perguntas via API externa
+
+Implementar barra de progresso
+
+Adicionar timer para cada questão
+
+Permitir níveis de dificuldade
+
+🔗 Deploy
+https://carlosavds.github.io/react-quiz/
+
+📝 Licença
+Este projeto está sob a licença MIT.
+
+Desenvolvido por Carlos A no curso HORA DE CODAR. 🚀
